@@ -1,0 +1,1 @@
+## This project analyzes customer churn in the telecommunications industry using the Telecom Customer Churn dataset. The objective is to understand the factors influencing churn, preprocess the data, explore correlations, handle outliers, encode categorical variables, and develop neural network models to predict and prevent customer churn.
